@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">p37S2120222AFJA</string>
+    <string name="suma">Suma</string>
+    <string name="resta">resta</string>
+    <string name="todo">TODO</string>
+    <string name="_7s21">7S21</string>
+    <string name="tesoem">Tesoem</string>
+    <string name="ingrese_el_primer_numero">Ingrese el primer numero</string>
+    <string name="ingrese_el_2_numero">Ingrese el 2 numero</string>
+    <string name="sum">suma</string>
+    <string name="divisio">Division</string>
+    <string name="rest">Resta</string>
+    <string name="multi">Multiplicacion</string>
+    <string name="el_resultado_es">El Resultado es..</string>
+</resources>
